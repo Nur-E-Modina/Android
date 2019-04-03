@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TextDemo</string>
+    <string name="name_text">Welcome AI</string>
+    <string name="large_text">What is Intelligence ?\n
+        1."Intelligence is the ability to understand and learn things." - Essential English Dcitionary\n
+2.“Intelligence is the capacity to act purposefully with the environment”  - David Weshlar \n
+3.“Intelligence is the general mental adaptibility to new problems and conditions” - W. Stern \n
+4.Learning? - Any relatively permanent change in behavior which occurs as a result of experience or practice\n \n
+    What is AI?\n
+        *Study and creation of computer systems that exhibit some form of intelligence.\n
+*Learn new concepts Reason and draw useful conclusions about the world.\n
+*Perform other types of feats that require human types of intelligence\n
+</string>
+</resources>
